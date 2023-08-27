@@ -2,6 +2,7 @@
 
 - [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)  
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
+- [💼](https://github.com/zahradnik-ondrej/jobscz-scraper)
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
