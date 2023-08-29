@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written with Puppeteer and Playwright.](https://github.com/zahradnik-ondrej/jobscz-scraper)
+- [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written with Puppeteer, Playwright and Selenium.](https://github.com/zahradnik-ondrej/jobscz-scraper)
 - [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)  
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
 
