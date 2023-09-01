@@ -16,11 +16,11 @@
 
 - Puppeteer
 - Playwright, Selenium
+- Mocha, Chai
 
 ### Tools:
 
 - npm / yarn, Node.js / ts-node
-- Mocha, Chai
 - GraphQL, Git, GitHub Actions
 
 <!--
