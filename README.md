@@ -22,6 +22,7 @@
 
 - npm / yarn, Node.js / ts-node
 - GraphQL, Git, GitHub Actions
+- PostgreSQL
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
