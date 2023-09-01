@@ -1,4 +1,4 @@
-### Hi there 👋
+### Projects:
 
 - [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written in multiple JS/TS libraries.](https://github.com/zahradnik-ondrej/jobscz-scraper)
 - [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)  
