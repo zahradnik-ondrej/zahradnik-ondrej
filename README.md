@@ -20,9 +20,10 @@
 
 ### Tools:
 
-- npm / yarn, Node.js / ts-node
-- GraphQL, Git, GitHub Actions
-- PostgreSQL
+- npm / yarn, Node.js / ts-node, Git
+- Docker
+- MongoDB / PostgreSQL
+- GraphQL, GitHub Actions
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
