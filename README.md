@@ -8,12 +8,12 @@
 
 | Languages               | Frameworks                    | Tools                 | 
 |-------------------------|-------------------------------|-----------------------|
-| JavaScript / TypeScript | Puppeteer                     | 📦 npm / yarn         |
-| HTML / CSS              | Playwright                    | Node.js / ts-node     |
-| 🐢 Bash                 | Selenium                      | 🐙 Git                |
+| JavaScript / TypeScript | Puppeteer                     | 📦 npm / 🧶 yarn       |
+| HTML / CSS              | 🎭︎ Playwright                 | Node.js / ts-node     |
+| 🐢 Bash                 | Selenium                      | 🐙 Git                 |
 |                         | ☕ Mocha, 🍵 Chai              | 🐳  Docker            |
-|                         | 🍃   MongoDB   / 🐘 PostgreSQL | GitHub Actions        |
-|                         | Express                       | GraphQL               |
+|                         | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
+|                         | Express                       | 🕸 GraphQL            |
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
