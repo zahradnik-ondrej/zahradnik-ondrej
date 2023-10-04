@@ -4,6 +4,9 @@
 - [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)  
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
 
+### Current occupation:
+- [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April 2023 - present)*
+
 ***
 
 | Languages               | Frameworks                    | Tools                 | 
