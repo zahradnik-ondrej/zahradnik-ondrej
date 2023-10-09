@@ -15,7 +15,7 @@
 | HTML / CSS              | 🎭︎ Playwright                 | Node.js / ts-node     |
 | 🐢 Bash                 | Selenium                      | 🐙 Git                 |
 | C                       | ☕ Mocha, 🍵 Chai              | 🐳  Docker            |
-| Python                  | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
+| 🐍 Python               | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
 |                         | Express                       | 🕸 GraphQL            |
 
 <!--
