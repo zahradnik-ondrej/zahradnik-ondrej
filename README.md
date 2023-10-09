@@ -14,8 +14,8 @@
 | JavaScript / TypeScript | Puppeteer                     | 📦 npm / 🧶 yarn       |
 | HTML / CSS              | 🎭︎ Playwright                 | Node.js / ts-node     |
 | 🐢 Bash                 | Selenium                      | 🐙 Git                 |
-|                         | ☕ Mocha, 🍵 Chai              | 🐳  Docker            |
-|                         | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
+| C                       | ☕ Mocha, 🍵 Chai              | 🐳  Docker            |
+| Python                  | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
 |                         | Express                       | 🕸 GraphQL            |
 
 <!--
