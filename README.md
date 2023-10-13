@@ -3,7 +3,7 @@
 - [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written in multiple JS/TS libraries.](https://github.com/zahradnik-ondrej/jobscz-scraper) 
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
 
-### Current occupation:
+### Occupations:
 - [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April 2023 - October 2023)*
 
 ***
