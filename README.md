@@ -4,7 +4,7 @@
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
 
 ### Occupations:
-- [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April 2023 - October 2023)*
+- [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April - October 2023)*
 
 ***
 
