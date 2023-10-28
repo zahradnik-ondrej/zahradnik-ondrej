@@ -2,7 +2,7 @@
 
 - [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written in multiple JS/TS libraries.](https://github.com/zahradnik-ondrej/jobscz-scraper) 
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
-- [🧪🛠 test.sh - An overengineered testing script for C programs. ](https://github.com/zahradnik-ondrej/test.sh)
+- [🧪🛠 test.sh - An overengineered testing script for C/C++ programs. ](https://github.com/zahradnik-ondrej/test.sh)
 
 ### Occupations:
 - [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April - October 2023)*
