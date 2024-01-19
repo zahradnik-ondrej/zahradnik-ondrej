@@ -4,10 +4,12 @@
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
 - [🧪🛠 test.sh - An overengineered testing script for C/C++ programs. ](https://github.com/zahradnik-ondrej/test.sh)
 
-### Occupations:
+### Work experience:
 - [Luxonis](https://www.luxonis.com/) - QA Automation Engineer *(April - October 2023)*
 
 ***
+
+### Skills:
 
 | Languages               | Frameworks                    | Tools                 | 
 |-------------------------|-------------------------------|-----------------------|
