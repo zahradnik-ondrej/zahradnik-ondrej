@@ -11,14 +11,14 @@
 
 ### Skills:
 
-| Languages               | Frameworks                    | Tools                 | 
-|-------------------------|-------------------------------|-----------------------|
-| JavaScript / TypeScript | Puppeteer                     | 📦 npm / 🧶 yarn       |
-| HTML / CSS              | 🎭︎ Playwright                 | Node.js / ts-node     |
-| 🐢 Bash                 | Selenium                      | 🐙 Git                 |
-| C                       | ☕ Mocha, 🍵 Chai              | 🐳  Docker            |
-| 🐍 Python               | 🍃   MongoDB   / 🐘 PostgreSQL | ▶ GitHub Actions      |
-|                         | Express                       | 🕸 GraphQL            |
+| Languages               | Frameworks       | Tools             | Databases     |
+|-------------------------|------------------|-------------------|---------------|
+| JavaScript / TypeScript | Puppeteer        | 📦 npm / 🧶 yarn   | 🍃 MongoDB    |
+| HTML / CSS              | 🎭︎ Playwright    | Node.js / ts-node | 🐘 PostgreSQL |
+| 🐢 Bash                 | Selenium         | 🐙 Git             |               |
+| C                       | ☕ Mocha, 🍵 Chai | 🐳  Docker        |               |
+| 🐍 Python               | Express          | ▶ GitHub Actions  |               |
+|                         |                  | 🕸 GraphQL        |               |
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
