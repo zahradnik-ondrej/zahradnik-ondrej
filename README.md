@@ -19,6 +19,7 @@
 | C                       | ☕ Mocha, 🍵 Chai | 🐳  Docker        |               |
 | 🐍 Python               | Express          | ▶ GitHub Actions  |               |
 |                         |                  | 🕸 GraphQL        |               |
+|                         |                  | SQL               |               |
 
 <!--
 **zahradnik-ondrej/zahradnik-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
