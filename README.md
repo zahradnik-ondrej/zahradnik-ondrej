@@ -1,8 +1,9 @@
 ### Projects:
 
+- [🧪🛠 test.sh - An overengineered Bash script for the testing of C/C++ programs.](https://github.com/zahradnik-ondrej/test.sh)
+- [💠 dotfiles - A better way to manage your dotfiles *(or any other non directory-specific files)*.](https://github.com/zahradnik-ondrej/dotfiles)
 - [💼 Jobs.cz Scraper - A simple data scraper of Jobs.cz written in multiple JS/TS libraries.](https://github.com/zahradnik-ondrej/jobscz-scraper) 
 - [🧰 puppethelper - A Puppeteer helper package for automated QA web testing.](https://github.com/zahradnik-ondrej/puppethelper)
-- [🧪🛠 test.sh - An overengineered Bash script for the testing of C/C++ programs.](https://github.com/zahradnik-ondrej/test.sh)
 
 ### Work experience:
 - [Prusa Research](https://www.prusa3d.com/) - Tester *(March 2024 - present)*
