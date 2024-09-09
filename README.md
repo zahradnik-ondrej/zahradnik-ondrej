@@ -21,12 +21,47 @@
 
 ### Skills:
 
-| Languages               | Frameworks       | Tools             | Databases     |
-|-------------------------|------------------|-------------------|---------------|
-| JavaScript / TypeScript | Puppeteer        | 📦 npm / 🧶 yarn   | 🍃 MongoDB    |
-| HTML / CSS              | 🎭︎ Playwright    | Node.js / ts-node | 🐘 PostgreSQL |
-| 🐢 Bash                 | Selenium         | 🐙 Git             |               |
-| C / C++                 | ☕ Mocha, 🍵 Chai | 🐳  Docker        |               |
-| 🐍 Python               | Express          | ▶ GitHub Actions  |               |
-|                         |                  | 🕸 GraphQL        |               |
-|                         |                  | SQL               |               |
+| Languages     | Frameworks  | Tools  | Other skills   |
+|---------------|-------------|--------|----------------|
+| 🐢 Bash       | 🍵 Chai      | 🐙 Git | 🖨️ 3D printing |
+| 🟦 TypeScript | ☕ Mocha     |        |                |
+| 🐍 Python     | 🤖 Puppeteer |        |                |
+
+<!--
+| Languages                    | Frameworks       | Tools             | Databases     | Other skills |
+|------------------------------|------------------|-------------------|---------------|--------------|
+| 🟨 JavaScript / 🟦 TypeScript | 🤖 Puppeteer      | 📦 npm / 🧶 yarn  | 🍃 MongoDB    | 🖨️ 3D printing  |
+| HTML / CSS                   | 🎭︎ Playwright    | Node.js / ts-node | 🐘 PostgreSQL |              |
+| 🐢 Bash                      | Selenium         | 🐙 Git             |               |              |
+| C / C++                      | ☕ Mocha, 🍵 Chai | 🐳  Docker        |               |              |
+| 🐍 Python                     | Express          | ▶ GitHub Actions  |               |              |
+|                              |                  | 🕸 GraphQL        |               |              |
+|                              |                  | SQL               |               |              |
+
+🖨️ 3D printing
+🐢 Bash
+C
+C++
+🍵 Chai
+CSS
+🐳 Docker
+Express
+🐙 Git
+▶ GitHub Actions
+🕸 GraphQL
+HTML
+🟨 JavaScript
+☕ Mocha
+🍃 MongoDB
+Node.js
+📦 npm
+🎭︎ Playwright
+🐘 PostgreSQL
+🤖 Puppeteer
+🐍 Python
+Selenium
+SQL
+ts-node
+🟦 TypeScript
+🧶 yarn
+-->
