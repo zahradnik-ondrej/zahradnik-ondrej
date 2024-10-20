@@ -1,7 +1,7 @@
 ### Projects:
 
 - [🧰 puppethelper - A Puppeteer utility module for web automation.](https://github.com/zahradnik-ondrej/puppethelper)
-- [🧪🛠️ test.sh - An overengineered Bash script for the testing of C/C++ programs.](https://github.com/zahradnik-ondrej/test.sh)
+- [🧪 test.sh - An overengineered Bash script for the testing of C/C++ programs.](https://github.com/zahradnik-ondrej/test.sh)
 - [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)
 
 ### Work experience:
