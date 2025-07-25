@@ -1,10 +1,11 @@
 ### Projects:
 
-- [🧰 puppethelper - A Puppeteer utility module for web automation.](https://github.com/zahradnik-ondrej/puppethelper)
-- [🧪 test.sh - An overengineered Bash script for the testing of C/C++ programs.](https://github.com/zahradnik-ondrej/test.sh)
-- [💠 dotfiles - A better way to manage your dotfiles.](https://github.com/zahradnik-ondrej/dotfiles)
-- [🏓 pong - A very simple implementation of the famous Pong video game in Lua and the LÖVE game framework.](https://github.com/zahradnik-ondrej/pong-love)
-- [🐤 flappy-bird - A very simple implementation of the famous Flappy Bird video game in Lua and the LÖVE game framework. ](https://github.com/zahradnik-ondrej/flappy-bird-love)
+- [🧰 puppethelper](https://github.com/zahradnik-ondrej/puppethelper) - A Puppeteer utility module for web automation.
+- [🧪 test.sh](https://github.com/zahradnik-ondrej/test.sh) - An overengineered Bash script for the testing of C/C++ programs.
+- [💠 dotfiles](https://github.com/zahradnik-ondrej/dotfiles) - A better way to manage your dotfiles.
+- [🏓 pong](https://github.com/zahradnik-ondrej/pong-love) - A very simple implementation of the famous Pong video game in Lua and the LÖVE game framework.
+- [🐤 flappy-bird](https://github.com/zahradnik-ondrej/flappy-bird-love) - A very simple implementation of the famous Flappy Bird video game in Lua and the LÖVE game framework.
+- [🚁 OpenWhoop](https://github.com/zahradnik-ondrej/openwhoop) - A shopping list of components needed to build a micro drone *aka* a tiny whoop.
 
 ### Work experience:
 - [Prusa Research](https://www.prusa3d.com/) - Tester *(March 2024 - present)*
